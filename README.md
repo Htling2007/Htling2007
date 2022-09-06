@@ -8,7 +8,7 @@
 
 # :computer: Main window
 <p align="center">
-  <img src="https://i.ibb.co/8c1fb1Q/Impulse-Main.png">
+  <img src="https://i.ibb.co/8c1fb1Q/htl-Main.png">
 </p>
 
 # :satellite: Methods:
@@ -30,7 +30,7 @@
   * Download Python 3.8 from [here](https://www.python.org/downloads/release/python-38)
   * Launch installer, click `add python to PATH`
   * Download Htl
-  * Open cmd or powershell in Impulse directory
+  * Open cmd or powershell in htl directory
   * Run this command: `pip install -r requirements.txt`
   * And this: `python htl.py --help`
 
@@ -44,7 +44,7 @@
 
 
 # :phone: Example SMS & Call flood:
-```python3 impulse.py --method SMS --time 20 --threads 15 --target +380123456789```
+```python3 htl.py --method SMS --time 20 --threads 15 --target +380123456789```
 
 <p align="center">
   <img src="https://i.ibb.co/KmPnV9f/Impulse-SMS.png">
